@@ -1,3 +1,7 @@
+# Difference from original package
+
+This package differs from the original [`skorp/detect-incompatible-samesite-useragents`](https://github.com/skorp/detect-incompatible-samesite-useragents) with minimum PHP version raised to 7.2 and added PHP 8 support.
+
 # Detect Incompatible SameSite Useragents
 
 This class tries to determine the incompatible UserAgents for SameSite=None Attribute.
@@ -11,7 +15,7 @@ This class tries to determine the incompatible UserAgents for SameSite=None Attr
 You can install this package via composer using this command:
 
 ```bash
-composer require "skorp/detect-incompatible-samesite-useragents"
+composer require "crassula/detect-incompatible-samesite-useragents"
 ```
 
 ## Usage

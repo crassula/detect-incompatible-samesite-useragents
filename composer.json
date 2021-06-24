@@ -1,5 +1,5 @@
 {
-    "name": "skorp/detect-incompatible-samesite-useragents",
+    "name": "crassula/detect-incompatible-samesite-useragents",
     "description": "Determine if UserAgent is incompatible with SameSite=None",
     "keywords": ["cookies", "samesite", "samesite cookie","safari"],
     "require": {
